@@ -1,22 +1,42 @@
 [
   {
     "id": 1,
-    "item": "smartphone"
+    "item": "smartphone",
+    "owner": {
+      "name": "Abc",
+      "email": "abc@gmail.com"
+    }
   },
   {
     "id": 2,
-    "item": "smarwatch"
+    "item": "smarwatch",
+    "owner": {
+      "name": "Cde",
+      "email": "cde@gmail.com"
+    }
   },
   {
     "id": 3,
-    "item": "earphone"
+    "item": "earphone",
+    "owner": {
+      "name": "Fgh",
+      "email": "fgh@gmail.com"
+    }
   },
   {
     "id": 4,
-    "item": "tws"
+    "item": "tws",
+    "owner": {
+      "name": "Ijk",
+      "email": "ijk@gmail.com"
+    }
   },
   {
     "id": 5,
-    "item": "mouse"
+    "item": "mouse",
+    "owner": {
+      "name": "Lmn",
+      "email": "lmn@gmail.com"
+    }
   }
 ]
