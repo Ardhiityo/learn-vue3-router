@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "item": "smartphone"
+  },
+  {
+    "id": 2,
+    "item": "smarwatch"
+  },
+  {
+    "id": 3,
+    "item": "earphone"
+  },
+  {
+    "id": 4,
+    "item": "tws"
+  },
+  {
+    "id": 5,
+    "item": "mouse"
+  }
+]
