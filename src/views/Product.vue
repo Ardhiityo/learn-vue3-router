@@ -12,11 +12,15 @@ function showOwner() {
 </script>
 
 <template>
-  <div>
+  <div v-if="product">
     <h1>Products</h1>
     <h2>id : {{ product.id }}</h2>
     <p>{{ product.item }}</p>
     <button @click="showOwner">Show Owner</button>
     <RouterView />
+  </div>
+
+  <div v-else>
+    <h1>Product not found</h1>
   </div>
 </template>
